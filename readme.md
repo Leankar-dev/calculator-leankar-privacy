@@ -1,1 +1,0 @@
-Politica de Privacidade do Calculator App

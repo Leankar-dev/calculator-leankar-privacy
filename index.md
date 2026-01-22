@@ -187,7 +187,7 @@ Calculator Leankar does **not** use cookies, tracking pixels, advertising identi
 
 If you have questions about this Privacy Policy or privacy practices, please contact:
 
-**Developer:** Leankar
+**Developer:** Leankar.dev
 **Email:** [leankar.dev@gmail.com](mailto:leankar.dev@gmail.com)
 **GitHub:** [https://github.com/Leankar-dev/calculator_leankar](https://github.com/Leankar-dev/calculator_leankar)
 

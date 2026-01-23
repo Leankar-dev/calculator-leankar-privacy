@@ -204,4 +204,4 @@ This Privacy Policy is designed to comply with Google Play Store requirements, i
 ---
 
 **Effective Date:** January 22, 2026
-**Applicable to:** Calculator Leankar v1.0.0+
+**Applicable to:** Calculator Leankar v0.7.1+

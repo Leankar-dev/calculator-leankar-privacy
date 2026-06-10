@@ -1,6 +1,6 @@
 # Privacy Policy – Calculator Leankar
 
-**Last Updated:** May 31, 2026.
+**Last Updated:** Jun 10, 2026.
 
 ---
 
